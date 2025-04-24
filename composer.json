@@ -1,5 +1,5 @@
 {
-    "name": "laravel/socialite",
+    "name": "sumkc/socialite",
     "description": "Laravel wrapper around OAuth 1 & OAuth 2 libraries.",
     "keywords": ["oauth", "laravel"],
     "license": "MIT",
@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "php": "^7.2|^8.0",
+        "php": "^7.1.3|^8.0",
         "ext-json": "*",
         "firebase/php-jwt": "^6.4",
         "guzzlehttp/guzzle": "^6.0|^7.0",
